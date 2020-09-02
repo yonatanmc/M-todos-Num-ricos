@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[32]:
-
 
 import math
 import pandas as pd
@@ -52,16 +47,4 @@ def metodoBiseccion(xi, xs, margen_error):
 #mostrando solución
 #metodoBiseccion(0, 5, 0.00001)
 metodoBiseccion(1, 1.6, 0.00001)
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
 
